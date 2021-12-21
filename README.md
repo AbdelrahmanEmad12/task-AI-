@@ -1,4 +1,4 @@
-# task-AI-
+# Task1(AI) in A Glimpse of Machine Learning
 Task1:
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
